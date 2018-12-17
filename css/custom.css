@@ -10,7 +10,7 @@ body {
 
 .jumbotron {
     height: 100vh;
-    background-image: url('/img/winterplants.jpg');
+    background-image: url('/projectBs/img/winterplants.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; /* Center the image */
